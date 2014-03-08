@@ -1,3 +1,9 @@
+debathena-desync (10.2.1-0debathena1) UNRELEASED; urgency=low
+
+  * Release 10.2.1
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Fri, 07 Mar 2014 23:13:28 -0500
+
 debathena-desync (10.2-0debathena1) unstable; urgency=low
 
   [ Jonathan Reed ]
